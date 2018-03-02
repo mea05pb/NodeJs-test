@@ -1,0 +1,9 @@
+{
+  "name": "test-node-js-app",
+  "version": "0.0.0",
+  "description": "TestNodeJsApp",
+  "main": "app.js",
+  "author": {
+    "name": "Main PC"
+  }
+}
